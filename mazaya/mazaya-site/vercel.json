@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/delete-image.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
-}
