@@ -3,5 +3,6 @@
     "api/delete-image.js": {
       "runtime": "nodejs18.x"
     }
-  }
+  },
+  "buildCommand": "npm install && npm run build"
 }
